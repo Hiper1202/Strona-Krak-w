@@ -1,0 +1,79 @@
+<!Doctype html>
+<html lang="pl">
+	<head>
+		<meta charset="UTF-8">
+		<title> Kraków moja strona </title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<header>
+			<h1>Moje miasto Kraków</h1>
+		</header>
+		<main>
+			<p class="wiersz">
+					<b>Kraków</b>, <u>Stołeczne Królewskie Miasto Kraków</u> – miasto na prawach powiatu położone w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców[1]. Formalna stolica Polski do 1795 roku i miasto koronacyjne oraz nekropolia królów Polski. Od 1000 roku nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii. Lokowany przed 1228 rokiem, ponownie w 1257 r.[5]. Od odzyskania niepodległości w 1918 r. miasto wojewódzkie (od 1999 r. siedziba władz województwa małopolskiego), jest także centralnym ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. Kraków jest stolicą historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki Nidziańskiej i Pogórza Zachodniobeskidzkiego.
+				</p>
+				<hr>
+				<h7> Jedziemy do krakowa</h7>
+				<p class="wiersz">
+					Wisła – polskich rzek królowa<br>
+					Od lat płynie wzdłuż Krakowa<br>
+					Sto tajemnic w sobie chowa<br>
+					Wisła – polskich rzek królowa!<br>
+					<br>
+					To jest miasto ukochane<br>
+					Przez turystów uwielbiane<br>
+					Bardzo często odwiedzane<br>
+					Moje miasto ukochane!<br>
+					<i>Kalina Rokosz</i><br>
+					<a href="https://muzycznakurtyna.pl/wierszyk/jedziemy-do-krakowa-wierszyk-o-krakowie/" target="_blank">Pełna wersja wiersza, kliknij tutaj</a>
+				<p class="wiersz">
+					<figure>
+					
+						<img src="Kolaż_Krakowa.jpg" alt="Obraz Krakowa">
+						<figcaption>Ciekawe miejsca w Krakowie</figcaption>
+					</figure>
+				<ul>
+					<li>Mapa</li>
+					<li>Ciekawe Miejsca</li>
+					<li>Zabytki</li>
+					<li>Sport</li>
+				</ul>
+				<ol>
+					<li>Mapa</li>
+					<li>Ciekawe Miejsca</li>
+					<li>Zabytki</li>
+					<li>Sport</li>
+				</ol>
+				<table>
+					<tr>
+						<th>Nazwa rezerwatu</th>
+						<th>Powierzchnia</th>
+						<th>Przedmiot ochrony</th>
+					</tr>
+					<tr>
+						<td>Bielańskie Skałki</td>
+						<td>1,73 ha</td>
+						<td>spontaniczne procesy sukcesji biocenoz leśnych na skalistym, dawniej pozbawionym lasu terenie</td>
+					</tr>
+					<tr>
+						<td>Bonarka</td>
+						<td>2,29 ha</td>
+						<td>rezerwat geologiczny, uskoki geologiczno-tektoniczne, powierzchnie abrazyjne, odsłonięte utwory jurajskie, kredowe i trzeciorzędowe</td>
+					</tr>
+				</table>
+		</main>
+		<footer>
+			<p class="wiersz">
+				Źródło: <a href= "https://pl.wikipedia.org/wiki/Krak%C3%B3w" target="_blank">Wikipedia</a>
+			</p>
+			<p class="wiersz"> 
+				x<sub>1</sub> + x<sub>2</sub>=1000 <br>
+				Lekcja trwa: 10<sup>15</sup> - 11<sup>00</sup>
+			</p>
+			<p class="wiersz">
+				Copyright &copy; 3F2 Paweł Ambrozik
+			</p>
+		</footer>
+	</body>
+</html>
